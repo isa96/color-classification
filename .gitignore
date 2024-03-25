@@ -1,0 +1,5 @@
+/data/color
+/mlruns
+/output/models
+/data/not_used
+__pycache__

@@ -1,0 +1,6 @@
+torchvision
+torch
+Pillow
+gdown
+scikit-learn
+torchviz
